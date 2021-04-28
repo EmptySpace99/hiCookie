@@ -1,3 +1,3 @@
-# hiCookie ![cookie](https://github.com/EmptySpace99/hiCookie/blob/main/images/cookie-svgrepo-com.svg)
+# hiCookie
 
 ### Social Network For Food Lovers
