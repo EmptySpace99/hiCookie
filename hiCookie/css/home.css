@@ -1,9 +1,0 @@
-.post-box-margin{
-    margin: 5% 25%;
-}
-
-@media only screen and (max-width:800px) {
-    .post-box-margin{
-        margin: 5% 0;
-    }
-}
